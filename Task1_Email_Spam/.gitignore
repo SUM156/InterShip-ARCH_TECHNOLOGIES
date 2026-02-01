@@ -1,0 +1,3 @@
+echo "*.pkl" > .gitignore
+echo "*.csv" >> .gitignore
+echo "__pycache__/" >> .gitignore
